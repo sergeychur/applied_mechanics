@@ -1,2 +1,3 @@
-# applied_mechanics
-Course project in applied mechanics
+# Applied Mechanics
+
+Materials for Applied Mechanics Course Project
